@@ -1,0 +1,51 @@
+body{
+    background-image: url("https://www.drzauft.de/wp-content/uploads/2013/05/background.jpg");
+}
+
+.scales{
+   background-image: url('../images/rainbow_scales.jpeg') ;
+   font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    padding-top: 40px;
+    
+   
+}
+
+.circle{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.prices{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue ;
+}
+
+.brush{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.frame{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral
+
+}
+
+.paint{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
